@@ -1,0 +1,10 @@
+ Aula #3 - Configurando banco de dados MySql
+  -> Vídeo 3 - Criando a tela de login
+  -> Vídeo 4 - Criando as mensagem que avisa os usuário do sistema
+  -> Vídeo 5 - Função Login() e Logout()
+
+ Aula #4 - Módulo usuário
+
+ Vídeo 1 - Inicio do módulo usuários
+
+ 
