@@ -17,8 +17,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <link href="<?= base_url();?>include/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- DataTable -->
-    <link href="<?= base_url();?>include/jquery/jquery.datatable/css/datatable.min.css" rel="stylesheet" type="text/css">
-    <link href="<?= base_url();?>include/jquery/jquery.datatable/css/datatable.bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="<?= base_url();?>include/jquery/jquery.datatable/css/jquery.dataTables.css" rel="stylesheet" type="text/css">
+    <link href="<?= base_url();?>include/jquery/jquery.datatable/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css"> 
+    
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

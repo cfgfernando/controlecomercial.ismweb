@@ -12,9 +12,10 @@
     <script src="<?= base_url();?>include/js/bootstrap.min.js"></script>
 
     <!-- DataTable -->
-    
+     <script src="<?= base_url();?>include/jquery/jquery.datatable/js/dataTables.bootstrap4.js" type="text/javascript"></script>
+     <script src="<?= base_url();?>include/jquery/jquery.datatable/js/jquery.dataTables.js" type="text/javascript"></script>
     <script src="<?= base_url();?>include/jquery/jquery.datatable/js/jquery.dataTables.min.js" type="text/javascript"></script>
-    <script src="<?= base_url();?>include/jquery/jquery.datatable/js/datatable_bootstrap.js" type="text/javascript"></script>
+   
 
     <!-- main.js -->
     
