@@ -7,4 +7,7 @@
 
  Vídeo 1 - Inicio do módulo usuários
 
+ Aula #7 - Criação do Banco de Dados
+    Vídeo 1 - Criando banco de dados
+
  
