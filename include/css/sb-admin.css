@@ -8,7 +8,7 @@
 
 body {
     margin-top: 100px;  
-    background: #0f4e74;  
+    background: #0f4e74  
 }
 
 @media(min-width:768px) {
@@ -25,7 +25,7 @@ body {
     width: 100%;
     padding: 0;
     background-color: #fff;
-    min-height: 600px;
+    min-height: 600px;    
 }
 
 .huge {
@@ -229,6 +229,7 @@ ul.alert-dropdown {
     color: #df8a13;
 }
 
+
 /* LOGIN */
 .login-form {
   background: #FFFFFF;
@@ -237,7 +238,6 @@ ul.alert-dropdown {
   margin: 0 auto;
   padding: 20px;
   margin: 0 auto;
-
 }
 
 .login-form input {
@@ -249,3 +249,16 @@ ul.alert-dropdown {
     border: none;
 }
 .login-form h3 { text-align: center; margin-top: 0; margin-bottom: 20px; }
+
+/* MARGIN */
+.margin-top10 { margin-top: 10px }
+.margin-top20 { margin-top: 20px }
+.margin-top30 { margin-top: 30px }
+.margin-top40 { margin-top: 40px }
+.margin-top50 { margin-top: 50px }
+
+.margin-bottom10 { margin-bottom: 10px }
+.margin-bottom20 { margin-bottom: 20px }
+.margin-bottom30 { margin-bottom: 30px }
+.margin-bottom40 { margin-bottom: 40px }
+.margin-bottom50 { margin-bottom: 50px }

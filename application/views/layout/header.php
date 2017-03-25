@@ -47,7 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Sistema Comercial</a>                
+                <a class="navbar-brand" href="<?php echo site_url('principal') ?>">Sistema Comercial</a>                
             </div>            
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -154,14 +154,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <a href="#">Sistema</a>
                             </li>  
                             <li>
-                                <a href="usuarios">Usuários</a>
+                            <a href="<?php echo site_url('usuarios') ?>">Usuários</a>
                             </li>   
                                                    
                         </ul>
                     </li> 
 
                     <li> 
-                        <a href="login/logout"><i class="fa fa-fw fa-power-off"></i> Sair</a>
+                        <a href="<?php echo site_url('login/logout') ?>"><i class="fa fa-fw fa-power-off"></i> Sair</a>
                     </li>
                 </ul>
             </div>
