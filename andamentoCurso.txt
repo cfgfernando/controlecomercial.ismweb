@@ -9,5 +9,10 @@
 
  Aula #7 - Criação do Banco de Dados
     Vídeo 1 - Criando banco de dados
+    Vídeo 2 - Conclusão da estrutura do banco de dados
+    Vídeo 3 - Vídeo complentar
+
+ Aula #8 - Tela de configurações do sistema
+    
 
  
