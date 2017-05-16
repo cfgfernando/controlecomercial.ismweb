@@ -77,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <a href="javascript:;" data-toggle="collapse" data-target="#cadastro"><i class="fa fa-group"></i> Cadastro <i class="fa fa-angle-down pull-right"></i></a>
                         <ul id="cadastro" class="collapse">
                             <li>
-                                <a href="#">Clientes</a>
+                                <a href="<?php echo site_url('clientes') ?>">Clientes</a>
                             </li>  
                             <li>
                                 <a href="#">Fornecedor</a>
@@ -151,8 +151,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                          Configuração<i class="fa fa-angle-down pull-right"></i></a>
                         <ul id="configuracao" class="collapse">
                             <li>
-                                <a href="#">Sistema</a>
-                            </li>  
+                                <a href="<?php echo site_url('config') ?>">Sistema</a>
+                            </li>
                             <li>
                             <a href="<?php echo site_url('usuarios') ?>">Usuários</a>
                             </li>   

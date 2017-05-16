@@ -13,6 +13,17 @@
     Vídeo 3 - Vídeo complentar
 
  Aula #8 - Tela de configurações do sistema
+
+    Vídeo 1 - Criando model Sistema_model.php
+    Vídeo 2 - Criando o formulário
+    Vídeo 3 - Função Update
+
+ Aula #9 - Módulo clientes
+
+ 	Vídeo 1 - Iniciando o módulo clientes
+ 	Vídeo 2 - Formulário adicionar cliente
+ 	Vídeo 3 - Criando o código do Controller
+
     
 
  

@@ -46,3 +46,9 @@ function erros_validacao(){
 		echo '<div>';
 	}
 }
+
+function dataDiaDB(){
+	$format = 'DATE_W3C';
+    $time = time();
+    return standard_date($format, $time);
+}

@@ -1,4 +1,4 @@
-
+        
 
 
 </div>
@@ -15,6 +15,7 @@
      <script src="<?= base_url();?>include/jquery/jquery.datatable/js/dataTables.bootstrap4.js" type="text/javascript"></script>
      <script src="<?= base_url();?>include/jquery/jquery.datatable/js/jquery.dataTables.js" type="text/javascript"></script>
     <script src="<?= base_url();?>include/jquery/jquery.datatable/js/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script src="<?= base_url();?>include/js/jquery.maskedinput/jquery.maskedinput.js" type="text/javascript"></script>
    
 
     <!-- main.js -->
